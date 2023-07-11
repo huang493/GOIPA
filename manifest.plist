@@ -13,21 +13,13 @@
 					<key>url</key>
 					<string>https://github.com/huang493/GOIPA/raw/main/Gogo2go.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://enterprise.cloudpay.com.cn/app/packages/iphone-2x.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>BT.Avanker</string>
+				<string>com.niuke.gogo2go</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
